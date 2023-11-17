@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=p57EEcWHWtE
 
 A resource for ESX & QBCore, featuring Ox_Lib menus for shops.
 
+Need support? join https://discord.gg/cfxdev
+
 ## Features
 
 - **ESX & QBCore Support:** Compatible with both ESX and QBCore frameworks, providing flexibility for different server setups.
